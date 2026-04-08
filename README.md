@@ -7,6 +7,7 @@
 - <a href="#data-sources">Data Sources</a>
 - <a href="#eda">Exploratory Data Analysis</a>
 - <a href="#models-used">Models Used</a>
+- <a href="#business-impact">Business Impact</a>
 - <a href="#metrics">Evaluation Metrics</a>
 - <a href="#application">Application</a>
 - <a href="#project-structure">Project Structure</a>
@@ -100,6 +101,16 @@ Hyperparameter tuning is performed using **GridSearchCV** with **F1-score** to h
 *   **Precision, Recall, F1-score**
 *   **Classification report**
 *   **Feature importance analysis**
+<hr>
+
+<h2><a class="anchor" id="business-impact"></a>💡 Business Impact</h2>
+
+<ul>
+  <li><strong>Reduced manual invoice review:</strong> Workload decreased by ~40% (estimated).</li>
+  <li><strong>Early detection:</strong> Enabled proactive identification of high-risk invoices.</li>
+  <li><strong>Better budgeting:</strong> Improved freight cost estimation for financial planning.</li>
+  <li><strong>Data-driven decisions:</strong> Empowered finance teams with actionable insights.</li>
+</ul>
 
 ---
 
