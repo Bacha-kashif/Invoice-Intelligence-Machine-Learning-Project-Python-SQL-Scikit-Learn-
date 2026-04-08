@@ -10,8 +10,6 @@
 - <a href="#metrics">Evaluation Metrics</a>
 - <a href="#application">Application</a>
 - <a href="#project-structure">Project Structure</a>
-- <a href="#how-to-run-this-project">How to Run This Project</a>
-- <a href="#author--contact">Author & Contact</a>
 
 ---
 
@@ -144,21 +142,5 @@ inventory-invoice-analytics/
 ├── README.md
 └── .gitignore
 
----
 
-<h2><a class="anchor" id="how-to-run-this-project"></a>🚀 How to Run This Project</h2>
 
-**1. Clone the repository:**
-```bash
-git clone https://github.com/yourusername/inventory-invoice-analytics.git
-``` <--- ADD THIS LINE TO FIX THE PREVIEW
-
----
-
-<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
-
-**Kashif Bacha**  
-Data Scientist   
-📧 **Email:** bachakashif847@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/kashifbacha/)  
-🔗 [Portfolio](https://github.com/Bacha-kashif/)
