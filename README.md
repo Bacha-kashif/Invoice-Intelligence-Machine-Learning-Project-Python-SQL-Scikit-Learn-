@@ -151,6 +151,7 @@ inventory-invoice-analytics/
 **1. Clone the repository:**
 ```bash
 git clone https://github.com/yourusername/inventory-invoice-analytics.git
+``` <--- ADD THIS LINE TO FIX THE PREVIEW
 
 ---
 
